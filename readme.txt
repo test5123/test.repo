@@ -1,2 +1,3 @@
-aaaaa
-bbbbb
+adadd
+novy riadok
+aaaa
